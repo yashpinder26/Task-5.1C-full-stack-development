@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import PostPage from './postpage.jsx';
+import PostPage from './Main_page.jsx';
 
 function App() {
   return (
