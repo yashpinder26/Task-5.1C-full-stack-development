@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import QuestionForm from './QuestionForm.jsx';
-import ArticleForm from './ArticleForm.jsx';
+import QuestionForm from './Question.jsx';
+import ArticleForm from './Article.jsx';
 import './App.css';
 
 const PostPage = () => {
